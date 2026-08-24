@@ -1,1 +1,31 @@
-
+cff-version: 1.2.0
+message: If you use this model, please cite it as below.
+authors:
+- family-names:
+  - "Rodriguez\u2010Corcho"
+  - Rodriguez Corcho
+  given-names:
+  - Andres
+  - Andres Felipe
+  orcid: https://orcid.org/0000-0002-1521-7910
+- family-names: Polanco
+  given-names: Sara
+  orcid: _:b3
+- family-names: Sandiford
+  given-names: Daniel
+  orcid: https://orcid.org/0000-0002-2207-6837
+- family-names: Farrington
+  given-names: Rebecca
+  orcid: _:b4
+- family-names: Moresi
+  given-names: Louis
+  orcid: _:b5
+title: 'Subduction System Response to Ribbon Collision: Implications on the Intra-Plate
+  Force Balance and the Style of Slab Deformation'
+version: ''
+doi: https://doi.org/10.25914/tk35-h930
+date-released: '2026-08-24'
+url:
+- https://mate.science/models/RodriguezCorcho-2026-RIbbonCollision/
+- https://github.com/ModelAtlasofTheEarth/RodriguezCorcho-2026-RIbbonCollision/
+type: dataset
