@@ -1,0 +1,45 @@
+Field,Value
+Title*,Subduction System Response to Ribbon Collision: Implications on the Intra-Plate Force Balance and the Style of Slab Deformation
+Dataset version*,
+Abstract*,"Ribbon collision is a process that can rapidly disturb the symmetry of subduction zones. Previous studies have demonstrated how ribbon collision causes rotation at the surface and contortion in the slab, but have only focused on the surface kinematics. We use three-dimensional mechanical models to investigate how ribbon collision perturbs the strain and stress field at the surface, the slab interior, and intraplate force balance. In our numerical simulations, we vary the angle between the trench and the ribbon to explore the slab response to ribbons colliding at different orientations. Our numerical simulations show that ribbon collision causes significant heterogeneity of stress, strain rate and vorticity near the surface and the slab itself. Slab deformation shows compartmentalization into low and high strain rate regions around a high vorticity zone, with strain rate variations of up to an order of magnitude occurring in the along-strike and down-dip directions. In the context of our idealized oceanic-continental subduction system, the simulations show that intra-plate stresses are affected to a similar degree by buoyancy contrasts (i.e., gravitational potential energy variations), slab-pull and ribbon collisions. This partitioning allows for significant heterogeneity in the intra-plate stress regime. This work highlights how the rapid changes in strain rate within the slab, caused by ribbon collision, can explain the seismicity gaps observed in collisional margins, which are often interpreted as slab-tears."
+Topic category*,geoscientificInformation
+Field of research (FOR)*,https://linked.data.gov.au/def/anzsrc-for/2020/370401
+License*,Creative Commons Attribution 4.0 International
+Dataset lineage information*,"These 3D purely mechanical models of subduction were designed to investigate how ribbon collision perturbs the strain and stress field at the surface, the slab interior, and intraplate force balance. The models examined how the slab responded to ribbons colliding at different orientations. We determined two styles of intra-slab deformation triggered by non-orthogonal and orthogonal ribbon collision."
+Dataset format*,
+Dataset status,completed
+Maintenance frequency*,as needed
+Temporal extents* (if applicable),
+Spatial extents* (if applicable),
+Owner* (if applicable),
+Credit,
+Supplemental or supporting material,
+Local NCI file path,/g/data/nm08/MATE/RodriguezCorcho-2026-RIbbonCollision
+DOI (NCI Internal Field),
+Keyword/s,"ribbon collision, stress regime, slab contortion, subduction, force balance"
+Author 1,"Rodriguez‐Corcho, Andres, Unknown, Unknown, https://orcid.org/0000-0002-1521-7910"
+Author 2,"Polanco, Sara, Unknown, Unknown, Unknown"
+Author 3,"Sandiford, Daniel, Unknown, Unknown, https://orcid.org/0000-0002-2207-6837"
+Author 4,"Farrington, Rebecca, Unknown, Unknown, Unknown"
+Author 5,"Moresi, Louis, Unknown, Unknown, Unknown"
+Organisation/funding agency name,Ministerio de Ciencia
+Funding/award description or title,No grant ID provided
+Email address for the organisation/agency (if applicable),Email not provided
+Organisation/funding agency name,Colombian Association of Petroleum Geologists and Geophysicists (Asociación Colombiana de Geólogos y Geofísicos del Petróleo) fund (2019)
+Funding/award description or title,No grant ID provided
+Email address for the organisation/agency (if applicable),Email not provided
+Organisation/funding agency name,National Computational Infrastructure (NCI)
+Funding/award description or title,No grant ID provided
+Email address for the organisation/agency (if applicable),Email not provided
+Organisation/funding agency name,Nectar Research Cloud (projects q97
+Funding/award description or title,No grant ID provided
+Email address for the organisation/agency (if applicable),Email not provided
+Organisation/funding agency name,Auscope
+Funding/award description or title,No grant ID provided
+Email address for the organisation/agency (if applicable),Email not provided
+Organisation/funding agency name,National Collaborative Research Infrastructure Strategy (NCRIS)
+Funding/award description or title,No grant ID provided
+Email address for the organisation/agency (if applicable),Email not provided
+Organisation/funding agency name,Open access publishing facilitated by The University of Sydney
+Funding/award description or title,No grant ID provided
+Email address for the organisation/agency (if applicable),Email not provided
