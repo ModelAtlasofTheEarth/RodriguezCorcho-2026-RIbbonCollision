@@ -1,1 +1,553 @@
-{"@context": ["https://www.researchobject.org/ro-crate/1.1/context.jsonld", "https://raw.githubusercontent.com/codemeta/codemeta/master/codemeta.jsonld"], "@graph": [{"@id": "_:b0", "@type": "Person", "familyName": "Polanco", "givenName": "Sara"}, {"@id": "_:b1", "@type": "Person", "familyName": "Farrington", "givenName": "Rebecca"}, {"@id": "_:b10", "@type": "Organization", "name": "Auscope"}, {"@id": "_:b11", "@type": "Organization", "name": "National Collaborative Research Infrastructure Strategy (NCRIS)"}, {"@id": "_:b12", "@type": "Organization", "name": "Open access publishing facilitated by The University of Sydney"}, {"@id": "_:b13", "@type": "Grant", "funder": {"@id": "https://www.arc.gov.au/"}, "identifier": "http://example.org/base/IH130200012"}, {"@id": "_:b14", "@type": "Grant", "funder": {"@id": "https://www.arc.gov.au/"}, "identifier": "http://example.org/base/LP210100173"}, {"@id": "_:b15", "@type": "Grant", "funder": {"@id": "https://www.arc.gov.au/"}, "identifier": "http://example.org/base/FT190100829"}, {"@id": "_:b16", "@type": "Grant", "funder": {"@id": "https://www.arc.gov.au/"}, "identifier": "http://example.org/base/DP150102887"}, {"@id": "_:b17", "@type": "Grant", "funder": {"@id": "_:b18"}, "identifier": "http://example.org/base/Tecnolog\u00eda, e Innovaci\u00f3n, 783 (Colombia)"}, {"@id": "_:b18", "@type": "Organization", "name": "Ministerio de Ciencia"}, {"@id": "_:b19", "@type": "Grant", "funder": {"@id": "_:b20"}, "identifier": "http://example.org/base/LE190100021"}, {"@id": "_:b2", "@type": "Person", "familyName": "Moresi", "givenName": "Louis"}, {"@id": "_:b20", "@type": "Organization", "name": "National Computational Infrastructure (NCI)"}, {"@id": "_:b21", "@type": "Grant", "funder": {"@id": "_:b22"}, "identifier": "http://example.org/base/mw52, m18)"}, {"@id": "_:b22", "@type": "Organization", "name": "Nectar Research Cloud (projects q97"}, {"@id": "_:b23", "@type": "Grant", "funder": {"@id": "_:b24"}, "identifier": "http://example.org/base/as part of the Wiley - The University of Sydney agreement via the Council of Australasian University Librarians."}, {"@id": "_:b24", "@type": "Organization", "name": "Open access publishing facilitated by The University of Sydney"}, {"@id": "_:b25", "@type": "Person", "familyName": "Polanco", "givenName": "Sara"}, {"@id": "_:b26", "@type": "Person", "familyName": "Farrington", "givenName": "Rebecca"}, {"@id": "_:b27", "@type": "Person", "familyName": "Moresi", "givenName": "Louis"}, {"@id": "_:b3", "@type": "Person", "familyName": "Polanco", "givenName": "Sara"}, {"@id": "_:b4", "@type": "Person", "familyName": "Farrington", "givenName": "Rebecca"}, {"@id": "_:b5", "@type": "Person", "familyName": "Moresi", "givenName": "Louis"}, {"@id": "_:b6", "@type": "Organization", "name": "Ministerio de Ciencia"}, {"@id": "_:b7", "@type": "Organization", "name": "Colombian Association of Petroleum Geologists and Geophysicists (Asociaci\u00f3n Colombiana de Ge\u00f3logos y Geof\u00edsicos del Petr\u00f3leo) fund (2019)"}, {"@id": "_:b8", "@type": "Organization", "name": "National Computational Infrastructure (NCI)"}, {"@id": "_:b9", "@type": "Organization", "name": "Nectar Research Cloud (projects q97"}, {"@id": "http://example.org/base/", "@type": "Dataset", "about": {"@id": "https://linked.data.gov.au/def/anzsrc-for/2020/370401"}, "abstract": "Ribbon collision is a process that can rapidly disturb the symmetry of subduction zones. Previous studies have demonstrated how ribbon collision causes rotation at the surface and contortion in the slab, but have only focused on the surface kinematics. We use three-dimensional mechanical models to investigate how ribbon collision perturbs the strain and stress field at the surface, the slab interior, and intraplate force balance. In our numerical simulations, we vary the angle between the trench and the ribbon to explore the slab response to ribbons colliding at different orientations. Our numerical simulations show that ribbon collision causes significant heterogeneity of stress, strain rate and vorticity near the surface and the slab itself. Slab deformation shows compartmentalization into low and high strain rate regions around a high vorticity zone, with strain rate variations of up to an order of magnitude occurring in the along-strike and down-dip directions. In the context of our idealized oceanic-continental subduction system, the simulations show that intra-plate stresses are affected to a similar degree by buoyancy contrasts (i.e., gravitational potential energy variations), slab-pull and ribbon collisions. This partitioning allows for significant heterogeneity in the intra-plate stress regime. This work highlights how the rapid changes in strain rate within the slab, caused by ribbon collision, can explain the seismicity gaps observed in collisional margins, which are often interpreted as slab-tears.", "alternateName": "RodriguezCorcho-2026-RIbbonCollision", "citation": {"@id": "https://doi.org/10.1029/2025gc012769"}, "contributor": "", "creativeWorkStatus": "completed", "creator": [{"@id": "https://orcid.org/0000-0002-1521-7910"}, {"@id": "_:b3"}, {"@id": "https://orcid.org/0000-0002-2207-6837"}, {"@id": "_:b4"}, {"@id": "_:b5"}], "datePublished": "2026-08-24T01:25:20.000Z", "description": "These 3D purely mechanical models of subduction were designed to investigate how ribbon collision perturbs the strain and stress field at the surface, the slab interior, and intraplate force balance. The models examined how the slab responded to ribbons colliding at different orientations. We determined two styles of intra-slab deformation triggered by non-orthogonal and orthogonal ribbon collision.", "funder": [{"@id": "https://www.arc.gov.au/"}, {"@id": "_:b6"}, {"@id": "_:b7"}, {"@id": "_:b8"}, {"@id": "_:b9"}, {"@id": "_:b10"}, {"@id": "_:b11"}, {"@id": "_:b12"}], "hasPart": [{"@id": "http://example.org/base/model_code_inputs"}, {"@id": "http://example.org/base/model_output_data"}, {"@id": "http://example.org/base/website_material"}, {"@id": "http://example.org/base/metadata_trail"}, {"@id": "http://example.org/base/#datasetCreation"}, {"@id": "http://example.org/base/landing_image"}, {"@id": "http://example.org/base/model_setup_figure"}], "identifier": [], "isBasedOn": [], "isPartOf": "http://dx.doi.org/10.25914/yrzp-g882", "keywords": ["ribbon collision", "stress regime", "slab contortion", "subduction", "force balance"], "license": "https://creativecommons.org/licenses/by/4.0/legalcode", "name": "Subduction System Response to Ribbon Collision: Implications on the Intra-Plate Force Balance and the Style of Slab Deformation", "publisher": [{"@id": "https://ror.org/04s1m4564"}, {"@id": "https://ror.org/04yx6dh41"}], "spatialCoverage": "", "temporalCoverage": "", "url": ["https://mate.science/models/RodriguezCorcho-2026-RIbbonCollision/", "https://github.com/ModelAtlasofTheEarth/RodriguezCorcho-2026-RIbbonCollision/"], "version": "", "funding": [{"@id": "_:b13"}, {"@id": "_:b14"}, {"@id": "_:b15"}, {"@id": "_:b16"}, {"@id": "_:b17"}, {"@id": "_:b19"}, {"@id": "_:b21"}, {"@id": "_:b23"}]}, {"@id": "http://example.org/base/#datasetCreation", "@type": "CreateAction", "agent": {"@id": "https://orcid.org/0000-0002-1521-7910"}, "description": "Running the computational model", "endTime": "", "instrument": {"@id": "https://doi.org/10.21105/joss.01136"}, "object": {"@id": "http://example.org/base/model_code_inputs"}, "result": {"@id": "http://example.org/base/model_output_data"}, "startTime": ""}, {"@id": "http://example.org/base/.metadata_trail", "@type": "Dataset", "hasPart": [{"@id": "http://example.org/base/metadata_trail/issue_body.md"}, {"@id": "http://example.org/base/metadata_trail/issue_dict.json"}, {"@id": "http://example.org/base/metadata_trail/nci_iso.csv"}, {"@id": "http://example.org/base/metadata_trail/ro-crate-metadata-nested.json"}], "name": ".metadata_trail"}, {"@id": "http://example.org/base/.website_material", "@type": ["Dataset", "CreativeWork"], "creator": [{"@id": "https://orcid.org/0000-0002-1521-7910"}, {"@id": "_:b25"}, {"@id": "https://orcid.org/0000-0002-2207-6837"}, {"@id": "_:b26"}, {"@id": "_:b27"}], "description": "material for m@te website", "fileFormat": "http://example.org/base/", "name": ".website_material"}, {"@id": "http://example.org/base/landing_image", "@type": "ImageObject", "path": "https://raw.githubusercontent.com/ModelAtlasofTheEarth/RodriguezCorcho-2026-RIbbonCollision/update-mate2/.website_material/graphics/landing_image.png", "description": " Styles of ribbon collision and intra-slab deformation. (a-c) Non-orthogonal collsiion; (d-f) Orthogonal collision; (g-i) Without collision. The different fields show the magnitude of the strain-rate tensor, the stress ratio and the vorticity.", "encodingFormat": "image/png", "name": "Landing page image"}, {"@id": "http://example.org/base/metadata_trail/issue_body.md", "@type": "CreativeWork", "description": "Markdown document showing the original github issue body associated with the model submission.", "encodingFormat": "text/markdown", "name": "Issue Body"}, {"@id": "http://example.org/base/metadata_trail/issue_dict.json", "@type": "CreativeWork", "description": "json file representing the dictionary that is constructured by model_submission/.github/scripts/parse_issue.py", "encodingFormat": "application/json", "name": "Issue Dictionary"}, {"@id": "http://example.org/base/metadata_trail/nci_iso.csv", "@type": "CreativeWork", "description": "Simple crosswalk of metadata into ISO 19115 format/schema compatible with NCI GeoNwtework", "encodingFormat": "text/csv", "name": "NCI ISO Crosswalk"}, {"@id": "http://example.org/base/metadata_trail/ro-crate-metadata-nested.json", "@type": "CreativeWork", "description": "Nested version of RO-Crate, hasn't been flattenened.", "encodingFormat": "application/json", "name": "Nested version of RO-Crate"}, {"@id": "http://example.org/base/model_code_inputs", "@type": ["Dataset", "SoftwareSourceCode"], "contentSize": "", "creator": "", "description": "Code and inputs for computational model", "identifier": [], "keywords": "", "memoryRequirements": "http://example.org/base/", "processorRequirements": "", "programmingLanguage": "", "runtimePlatform": "", "storageRequirements": "http://example.org/base/", "url": "https://thredds.nci.org.au/thredds/catalog/nm08/MATE/RodriguezCorcho-2026-RIbbonCollision/catalog.html", "version": ""}, {"@id": "http://example.org/base/model_output_data", "@type": "Dataset", "contentSize": "", "creator": "", "description": "", "fileFormat": "http://example.org/base/", "identifier": [], "url": "https://thredds.nci.org.au/thredds/catalog/nm08/MATE/RodriguezCorcho-2026-RIbbonCollision/catalog.html"}, {"@id": "http://example.org/base/model_setup_figure", "@type": "ImageObject", "path": "https://raw.githubusercontent.com/ModelAtlasofTheEarth/RodriguezCorcho-2026-RIbbonCollision/update-mate2/.website_material/graphics/model_setup_figure.png", "description": " a) Model setup of the 3D subduction numerical models. (b-f) Structure of the crustal and lithospheric domains considered in the numerical models. (g-k) Mechanical properties: viscosity, density and plasticity of the continental and subducting plates and colliding ribbon.", "encodingFormat": "image/png", "name": "Model setup figure"}, {"@id": "http://example.org/base/ro-crate-metadata.json", "@type": "CreativeWork", "conformsTo": {"@id": "https://w3id.org/ro/crate/1.1"}, "about": {"@id": "http://example.org/base/"}, "description": "RO-Crate Metadata File Descriptor (this file)"}, {"@id": "https://creativecommons.org/licenses/by/4.0/legalcode", "@type": "CreativeWork", "description": "Creative Commons Attribution 4.0 International", "name": "CC-BY-4.0", "url": " https://creativecommons.org/licenses/by/4.0/legalcode.txt"}, {"@id": "https://doi.org/10.1029/2025gc012769", "@type": "ScholarlyArticle", "abstract": "Ribbon collision is a process that can rapidly disturb the symmetry of subduction zones. Previous studies have demonstrated how ribbon collision causes rotation at the surface and contortion in the slab, but have only focused on the surface kinematics. We use three\u2010dimensional mechanical models to investigate how ribbon collision perturbs the strain and stress field at the surface, the slab interior, and intraplate force balance. In our numerical simulations, we vary the angle between the trench and the ribbon to explore the slab response to ribbons colliding at different orientations. Our numerical simulations show that ribbon collision causes significant heterogeneity of stress, strain rate and vorticity near the surface and the slab itself. Slab deformation shows compartmentalization into low and high strain rate regions around a high vorticity zone, with strain rate variations of up to an order of magnitude occurring in the along\u2010strike and down\u2010dip directions. In the context of our idealized oceanic\u2010continental subduction system, the simulations show that intra\u2010plate stresses are affected to a similar degree by buoyancy contrasts (i.e., gravitational potential energy variations), slab\u2010pull and ribbon collisions. This partitioning allows for significant heterogeneity in the intra\u2010plate stress regime. This work highlights how the rapid changes in strain rate within the slab, caused by ribbon collision, can explain the seismicity gaps observed in collisional margins, which are often interpreted as slab\u2010tears.", "author": [{"@id": "https://orcid.org/0000-0002-1521-7910"}, {"@id": "_:b0"}, {"@id": "https://orcid.org/0000-0002-2207-6837"}, {"@id": "_:b1"}, {"@id": "_:b2"}], "identifier": "http://example.org/base/10.1029/2025GC012769", "name": "Subduction System Response to Ribbon Collision: Implications on the Intra\u2010Plate Force Balance and the Style of Slab Deformation"}, {"@id": "https://doi.org/10.21105/joss.01136", "@type": "SoftwareApplication", "name": "Underworld2"}, {"@id": "https://linked.data.gov.au/def/anzsrc-for/2020/370401", "@type": "DefinedTerm", "name": "Computational modelling and simulation in earth sciences", "termCode": "370401"}, {"@id": "https://orcid.org/0000-0002-1521-7910", "@type": "Person", "familyName": ["Rodriguez\u2010Corcho", "Rodriguez Corcho"], "givenName": ["Andres", "Andres Felipe"], "url": ["https://www.linkedin.com/in/andres-felipe-rodriguez-corcho-3b8396124/", "https://www.researchgate.net/profile/Andres-Rodriguez-5?ev=hdr_xprf"]}, {"@id": "https://orcid.org/0000-0002-2207-6837", "@type": "Person", "familyName": "Sandiford", "givenName": "Daniel"}, {"@id": "https://ror.org/04s1m4564", "@type": "Organization", "name": "AuScope"}, {"@id": "https://ror.org/04yx6dh41", "@type": "Organization", "name": "National Computational Infrastructure"}, {"@id": "https://www.arc.gov.au/", "@type": "Organization", "name": ""}]}
+{
+    "@context": [
+        "https://www.researchobject.org/ro-crate/1.1/context.jsonld",
+        "https://raw.githubusercontent.com/codemeta/codemeta/master/codemeta.jsonld"
+    ],
+    "@graph": [
+        {
+            "@id": "_:b0",
+            "@type": "Person",
+            "familyName": "Polanco",
+            "givenName": "Sara"
+        },
+        {
+            "@id": "_:b1",
+            "@type": "Person",
+            "familyName": "Farrington",
+            "givenName": "Rebecca"
+        },
+        {
+            "@id": "_:b10",
+            "@type": "Organization",
+            "name": "Auscope"
+        },
+        {
+            "@id": "_:b11",
+            "@type": "Organization",
+            "name": "National Collaborative Research Infrastructure Strategy (NCRIS)"
+        },
+        {
+            "@id": "_:b12",
+            "@type": "Organization",
+            "name": "Open access publishing facilitated by The University of Sydney"
+        },
+        {
+            "@id": "_:b13",
+            "@type": "Grant",
+            "funder": {
+                "@id": "https://www.arc.gov.au/"
+            },
+            "identifier": "http://example.org/base/IH130200012"
+        },
+        {
+            "@id": "_:b14",
+            "@type": "Grant",
+            "funder": {
+                "@id": "https://www.arc.gov.au/"
+            },
+            "identifier": "http://example.org/base/LP210100173"
+        },
+        {
+            "@id": "_:b15",
+            "@type": "Grant",
+            "funder": {
+                "@id": "https://www.arc.gov.au/"
+            },
+            "identifier": "http://example.org/base/FT190100829"
+        },
+        {
+            "@id": "_:b16",
+            "@type": "Grant",
+            "funder": {
+                "@id": "https://www.arc.gov.au/"
+            },
+            "identifier": "http://example.org/base/DP150102887"
+        },
+        {
+            "@id": "_:b17",
+            "@type": "Grant",
+            "funder": {
+                "@id": "_:b18"
+            },
+            "identifier": "http://example.org/base/Tecnolog\u00eda, e Innovaci\u00f3n, 783 (Colombia)"
+        },
+        {
+            "@id": "_:b18",
+            "@type": "Organization",
+            "name": "Ministerio de Ciencia"
+        },
+        {
+            "@id": "_:b19",
+            "@type": "Grant",
+            "funder": {
+                "@id": "_:b20"
+            },
+            "identifier": "http://example.org/base/LE190100021"
+        },
+        {
+            "@id": "_:b2",
+            "@type": "Person",
+            "familyName": "Moresi",
+            "givenName": "Louis"
+        },
+        {
+            "@id": "_:b20",
+            "@type": "Organization",
+            "name": "National Computational Infrastructure (NCI)"
+        },
+        {
+            "@id": "_:b21",
+            "@type": "Grant",
+            "funder": {
+                "@id": "_:b22"
+            },
+            "identifier": "http://example.org/base/mw52, m18)"
+        },
+        {
+            "@id": "_:b22",
+            "@type": "Organization",
+            "name": "Nectar Research Cloud (projects q97"
+        },
+        {
+            "@id": "_:b23",
+            "@type": "Grant",
+            "funder": {
+                "@id": "_:b24"
+            },
+            "identifier": "http://example.org/base/as part of the Wiley - The University of Sydney agreement via the Council of Australasian University Librarians."
+        },
+        {
+            "@id": "_:b24",
+            "@type": "Organization",
+            "name": "Open access publishing facilitated by The University of Sydney"
+        },
+        {
+            "@id": "_:b25",
+            "@type": "Person",
+            "familyName": "Polanco",
+            "givenName": "Sara"
+        },
+        {
+            "@id": "_:b26",
+            "@type": "Person",
+            "familyName": "Farrington",
+            "givenName": "Rebecca"
+        },
+        {
+            "@id": "_:b27",
+            "@type": "Person",
+            "familyName": "Moresi",
+            "givenName": "Louis"
+        },
+        {
+            "@id": "_:b3",
+            "@type": "Person",
+            "familyName": "Polanco",
+            "givenName": "Sara"
+        },
+        {
+            "@id": "_:b4",
+            "@type": "Person",
+            "familyName": "Farrington",
+            "givenName": "Rebecca"
+        },
+        {
+            "@id": "_:b5",
+            "@type": "Person",
+            "familyName": "Moresi",
+            "givenName": "Louis"
+        },
+        {
+            "@id": "_:b6",
+            "@type": "Organization",
+            "name": "Ministerio de Ciencia"
+        },
+        {
+            "@id": "_:b7",
+            "@type": "Organization",
+            "name": "Colombian Association of Petroleum Geologists and Geophysicists (Asociaci\u00f3n Colombiana de Ge\u00f3logos y Geof\u00edsicos del Petr\u00f3leo) fund (2019)"
+        },
+        {
+            "@id": "_:b8",
+            "@type": "Organization",
+            "name": "National Computational Infrastructure (NCI)"
+        },
+        {
+            "@id": "_:b9",
+            "@type": "Organization",
+            "name": "Nectar Research Cloud (projects q97"
+        },
+        {
+            "@id": "http://example.org/base/",
+            "@type": "Dataset",
+            "about": {
+                "@id": "https://linked.data.gov.au/def/anzsrc-for/2020/370401"
+            },
+            "abstract": "Ribbon collision is a process that can rapidly disturb the symmetry of subduction zones. Previous studies have demonstrated how ribbon collision causes rotation at the surface and contortion in the slab, but have only focused on the surface kinematics. We use three-dimensional mechanical models to investigate how ribbon collision perturbs the strain and stress field at the surface, the slab interior, and intraplate force balance. In our numerical simulations, we vary the angle between the trench and the ribbon to explore the slab response to ribbons colliding at different orientations. Our numerical simulations show that ribbon collision causes significant heterogeneity of stress, strain rate and vorticity near the surface and the slab itself. Slab deformation shows compartmentalization into low and high strain rate regions around a high vorticity zone, with strain rate variations of up to an order of magnitude occurring in the along-strike and down-dip directions. In the context of our idealized oceanic-continental subduction system, the simulations show that intra-plate stresses are affected to a similar degree by buoyancy contrasts (i.e., gravitational potential energy variations), slab-pull and ribbon collisions. This partitioning allows for significant heterogeneity in the intra-plate stress regime. This work highlights how the rapid changes in strain rate within the slab, caused by ribbon collision, can explain the seismicity gaps observed in collisional margins, which are often interpreted as slab-tears.",
+            "alternateName": "RodriguezCorcho-2026-RIbbonCollision",
+            "citation": {
+                "@id": "https://doi.org/10.1029/2025gc012769"
+            },
+            "contributor": "",
+            "creativeWorkStatus": "completed",
+            "creator": [
+                {
+                    "@id": "https://orcid.org/0000-0002-1521-7910"
+                },
+                {
+                    "@id": "_:b3"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0002-2207-6837"
+                },
+                {
+                    "@id": "_:b4"
+                },
+                {
+                    "@id": "_:b5"
+                }
+            ],
+            "datePublished": "2026-08-24T01:25:20.000Z",
+            "description": "These 3D purely mechanical models of subduction were designed to investigate how ribbon collision perturbs the strain and stress field at the surface, the slab interior, and intraplate force balance. The models examined how the slab responded to ribbons colliding at different orientations. We determined two styles of intra-slab deformation triggered by non-orthogonal and orthogonal ribbon collision.",
+            "funder": [
+                {
+                    "@id": "https://www.arc.gov.au/"
+                },
+                {
+                    "@id": "_:b6"
+                },
+                {
+                    "@id": "_:b7"
+                },
+                {
+                    "@id": "_:b8"
+                },
+                {
+                    "@id": "_:b9"
+                },
+                {
+                    "@id": "_:b10"
+                },
+                {
+                    "@id": "_:b11"
+                },
+                {
+                    "@id": "_:b12"
+                }
+            ],
+            "hasPart": [
+                {
+                    "@id": "http://example.org/base/model_code_inputs"
+                },
+                {
+                    "@id": "http://example.org/base/model_output_data"
+                },
+                {
+                    "@id": "http://example.org/base/website_material"
+                },
+                {
+                    "@id": "http://example.org/base/metadata_trail"
+                },
+                {
+                    "@id": "http://example.org/base/#datasetCreation"
+                },
+                {
+                    "@id": "http://example.org/base/landing_image"
+                },
+                {
+                    "@id": "http://example.org/base/model_setup_figure"
+                }
+            ],
+            "identifier": [
+                "https://doi.org/10.25914/tk35-h930"
+            ],
+            "isBasedOn": [],
+            "isPartOf": "http://dx.doi.org/10.25914/yrzp-g882",
+            "keywords": [
+                "ribbon collision",
+                "stress regime",
+                "slab contortion",
+                "subduction",
+                "force balance"
+            ],
+            "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+            "name": "Subduction System Response to Ribbon Collision: Implications on the Intra-Plate Force Balance and the Style of Slab Deformation",
+            "publisher": [
+                {
+                    "@id": "https://ror.org/04s1m4564"
+                },
+                {
+                    "@id": "https://ror.org/04yx6dh41"
+                }
+            ],
+            "spatialCoverage": "",
+            "temporalCoverage": "",
+            "url": [
+                "https://mate.science/models/RodriguezCorcho-2026-RIbbonCollision/",
+                "https://github.com/ModelAtlasofTheEarth/RodriguezCorcho-2026-RIbbonCollision/"
+            ],
+            "version": "",
+            "funding": [
+                {
+                    "@id": "_:b13"
+                },
+                {
+                    "@id": "_:b14"
+                },
+                {
+                    "@id": "_:b15"
+                },
+                {
+                    "@id": "_:b16"
+                },
+                {
+                    "@id": "_:b17"
+                },
+                {
+                    "@id": "_:b19"
+                },
+                {
+                    "@id": "_:b21"
+                },
+                {
+                    "@id": "_:b23"
+                }
+            ],
+            "creditText": [
+                "['Rodriguez\u2010Corcho', 'Rodriguez Corcho'], Andres., Polanco, S., Sandiford, D., Farrington, R., & Moresi, L. (2026). Subduction System Response to Ribbon Collision: Implications on the Intra-Plate Force Balance and the Style of Slab Deformation [Data set]. AuScope, National Computational Infrastructure. https://doi.org/tk35-h930"
+            ]
+        },
+        {
+            "@id": "http://example.org/base/#datasetCreation",
+            "@type": "CreateAction",
+            "agent": {
+                "@id": "https://orcid.org/0000-0002-1521-7910"
+            },
+            "description": "Running the computational model",
+            "endTime": "",
+            "instrument": {
+                "@id": "https://doi.org/10.21105/joss.01136"
+            },
+            "object": {
+                "@id": "http://example.org/base/model_code_inputs"
+            },
+            "result": {
+                "@id": "http://example.org/base/model_output_data"
+            },
+            "startTime": ""
+        },
+        {
+            "@id": "http://example.org/base/.metadata_trail",
+            "@type": "Dataset",
+            "hasPart": [
+                {
+                    "@id": "http://example.org/base/metadata_trail/issue_body.md"
+                },
+                {
+                    "@id": "http://example.org/base/metadata_trail/issue_dict.json"
+                },
+                {
+                    "@id": "http://example.org/base/metadata_trail/nci_iso.csv"
+                },
+                {
+                    "@id": "http://example.org/base/metadata_trail/ro-crate-metadata-nested.json"
+                }
+            ],
+            "name": ".metadata_trail"
+        },
+        {
+            "@id": "http://example.org/base/.website_material",
+            "@type": [
+                "Dataset",
+                "CreativeWork"
+            ],
+            "creator": [
+                {
+                    "@id": "https://orcid.org/0000-0002-1521-7910"
+                },
+                {
+                    "@id": "_:b25"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0002-2207-6837"
+                },
+                {
+                    "@id": "_:b26"
+                },
+                {
+                    "@id": "_:b27"
+                }
+            ],
+            "description": "material for m@te website",
+            "fileFormat": "http://example.org/base/",
+            "name": ".website_material"
+        },
+        {
+            "@id": "http://example.org/base/landing_image",
+            "@type": "ImageObject",
+            "path": "https://raw.githubusercontent.com/ModelAtlasofTheEarth/RodriguezCorcho-2026-RIbbonCollision/update-mate2/.website_material/graphics/landing_image.png",
+            "description": " Styles of ribbon collision and intra-slab deformation. (a-c) Non-orthogonal collsiion; (d-f) Orthogonal collision; (g-i) Without collision. The different fields show the magnitude of the strain-rate tensor, the stress ratio and the vorticity.",
+            "encodingFormat": "image/png",
+            "name": "Landing page image"
+        },
+        {
+            "@id": "http://example.org/base/metadata_trail/issue_body.md",
+            "@type": "CreativeWork",
+            "description": "Markdown document showing the original github issue body associated with the model submission.",
+            "encodingFormat": "text/markdown",
+            "name": "Issue Body"
+        },
+        {
+            "@id": "http://example.org/base/metadata_trail/issue_dict.json",
+            "@type": "CreativeWork",
+            "description": "json file representing the dictionary that is constructured by model_submission/.github/scripts/parse_issue.py",
+            "encodingFormat": "application/json",
+            "name": "Issue Dictionary"
+        },
+        {
+            "@id": "http://example.org/base/metadata_trail/nci_iso.csv",
+            "@type": "CreativeWork",
+            "description": "Simple crosswalk of metadata into ISO 19115 format/schema compatible with NCI GeoNwtework",
+            "encodingFormat": "text/csv",
+            "name": "NCI ISO Crosswalk"
+        },
+        {
+            "@id": "http://example.org/base/metadata_trail/ro-crate-metadata-nested.json",
+            "@type": "CreativeWork",
+            "description": "Nested version of RO-Crate, hasn't been flattenened.",
+            "encodingFormat": "application/json",
+            "name": "Nested version of RO-Crate"
+        },
+        {
+            "@id": "http://example.org/base/model_code_inputs",
+            "@type": [
+                "Dataset",
+                "SoftwareSourceCode"
+            ],
+            "contentSize": "",
+            "creator": "",
+            "description": "Code and inputs for computational model",
+            "identifier": [
+                "https://doi.org/10.25914/tk35-h930"
+            ],
+            "keywords": "",
+            "memoryRequirements": "http://example.org/base/",
+            "processorRequirements": "",
+            "programmingLanguage": "",
+            "runtimePlatform": "",
+            "storageRequirements": "http://example.org/base/",
+            "url": "https://thredds.nci.org.au/thredds/catalog/nm08/MATE/RodriguezCorcho-2026-RIbbonCollision/catalog.html",
+            "version": ""
+        },
+        {
+            "@id": "http://example.org/base/model_output_data",
+            "@type": "Dataset",
+            "contentSize": "",
+            "creator": "",
+            "description": "",
+            "fileFormat": "http://example.org/base/",
+            "identifier": [
+                "https://doi.org/10.25914/tk35-h930"
+            ],
+            "url": "https://thredds.nci.org.au/thredds/catalog/nm08/MATE/RodriguezCorcho-2026-RIbbonCollision/catalog.html"
+        },
+        {
+            "@id": "http://example.org/base/model_setup_figure",
+            "@type": "ImageObject",
+            "path": "https://raw.githubusercontent.com/ModelAtlasofTheEarth/RodriguezCorcho-2026-RIbbonCollision/update-mate2/.website_material/graphics/model_setup_figure.png",
+            "description": " a) Model setup of the 3D subduction numerical models. (b-f) Structure of the crustal and lithospheric domains considered in the numerical models. (g-k) Mechanical properties: viscosity, density and plasticity of the continental and subducting plates and colliding ribbon.",
+            "encodingFormat": "image/png",
+            "name": "Model setup figure"
+        },
+        {
+            "@id": "http://example.org/base/ro-crate-metadata.json",
+            "@type": "CreativeWork",
+            "conformsTo": {
+                "@id": "https://w3id.org/ro/crate/1.1"
+            },
+            "about": {
+                "@id": "http://example.org/base/"
+            },
+            "description": "RO-Crate Metadata File Descriptor (this file)"
+        },
+        {
+            "@id": "https://creativecommons.org/licenses/by/4.0/legalcode",
+            "@type": "CreativeWork",
+            "description": "Creative Commons Attribution 4.0 International",
+            "name": "CC-BY-4.0",
+            "url": " https://creativecommons.org/licenses/by/4.0/legalcode.txt"
+        },
+        {
+            "@id": "https://doi.org/10.1029/2025gc012769",
+            "@type": "ScholarlyArticle",
+            "abstract": "Ribbon collision is a process that can rapidly disturb the symmetry of subduction zones. Previous studies have demonstrated how ribbon collision causes rotation at the surface and contortion in the slab, but have only focused on the surface kinematics. We use three\u2010dimensional mechanical models to investigate how ribbon collision perturbs the strain and stress field at the surface, the slab interior, and intraplate force balance. In our numerical simulations, we vary the angle between the trench and the ribbon to explore the slab response to ribbons colliding at different orientations. Our numerical simulations show that ribbon collision causes significant heterogeneity of stress, strain rate and vorticity near the surface and the slab itself. Slab deformation shows compartmentalization into low and high strain rate regions around a high vorticity zone, with strain rate variations of up to an order of magnitude occurring in the along\u2010strike and down\u2010dip directions. In the context of our idealized oceanic\u2010continental subduction system, the simulations show that intra\u2010plate stresses are affected to a similar degree by buoyancy contrasts (i.e., gravitational potential energy variations), slab\u2010pull and ribbon collisions. This partitioning allows for significant heterogeneity in the intra\u2010plate stress regime. This work highlights how the rapid changes in strain rate within the slab, caused by ribbon collision, can explain the seismicity gaps observed in collisional margins, which are often interpreted as slab\u2010tears.",
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0002-1521-7910"
+                },
+                {
+                    "@id": "_:b0"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0002-2207-6837"
+                },
+                {
+                    "@id": "_:b1"
+                },
+                {
+                    "@id": "_:b2"
+                }
+            ],
+            "identifier": "http://example.org/base/10.1029/2025GC012769",
+            "name": "Subduction System Response to Ribbon Collision: Implications on the Intra\u2010Plate Force Balance and the Style of Slab Deformation"
+        },
+        {
+            "@id": "https://doi.org/10.21105/joss.01136",
+            "@type": "SoftwareApplication",
+            "name": "Underworld2"
+        },
+        {
+            "@id": "https://linked.data.gov.au/def/anzsrc-for/2020/370401",
+            "@type": "DefinedTerm",
+            "name": "Computational modelling and simulation in earth sciences",
+            "termCode": "370401"
+        },
+        {
+            "@id": "https://orcid.org/0000-0002-1521-7910",
+            "@type": "Person",
+            "familyName": [
+                "Rodriguez\u2010Corcho",
+                "Rodriguez Corcho"
+            ],
+            "givenName": [
+                "Andres",
+                "Andres Felipe"
+            ],
+            "url": [
+                "https://www.linkedin.com/in/andres-felipe-rodriguez-corcho-3b8396124/",
+                "https://www.researchgate.net/profile/Andres-Rodriguez-5?ev=hdr_xprf"
+            ]
+        },
+        {
+            "@id": "https://orcid.org/0000-0002-2207-6837",
+            "@type": "Person",
+            "familyName": "Sandiford",
+            "givenName": "Daniel"
+        },
+        {
+            "@id": "https://ror.org/04s1m4564",
+            "@type": "Organization",
+            "name": "AuScope"
+        },
+        {
+            "@id": "https://ror.org/04yx6dh41",
+            "@type": "Organization",
+            "name": "National Computational Infrastructure"
+        },
+        {
+            "@id": "https://www.arc.gov.au/",
+            "@type": "Organization",
+            "name": ""
+        }
+    ]
+}
